@@ -35,6 +35,9 @@
     border: 1px solid white;
     border-radius: 5px;
   }
+  .social {
+    text-decoration: none;
+  }
 }
 
 @media screen and (min-width: 1428px) {
@@ -79,6 +82,7 @@
 }
 #contactMe {
   font-size: 30pt;
+  text-decoration: none;
 }
 .subTitle {
   font-size: 40pt;
@@ -86,6 +90,7 @@
 }
 .social {
   font-size: 30pt;
+  text-decoration: none;
 }
 .social-list {
   list-style-type: none;
